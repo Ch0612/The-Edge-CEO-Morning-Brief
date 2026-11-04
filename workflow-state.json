@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "last_summarized_issue": {
+    "issue": "1245/2026",
+    "issue_number": 1245,
+    "issue_year": 2026,
+    "issue_date": "2026-11-04",
+    "web_url": "https://ceomorningbrief.theedgemalaysia.com/2026/1245/",
+    "origin": "inherited_completed_old_chat_report",
+    "report_available_for_publication": false
+  },
+  "last_published_issue": null,
+  "pending_publications": [],
+  "published_issues": [],
+  "baseline_note": "Issue 1245/2026 was fully summarized in the old chat. No report files have been uploaded. Do not regenerate or publish this baseline merely to populate the repository. Process subsequent unseen issues.",
+  "publication_policy": {
+    "branch": "main",
+    "markdown_path": "reports/YYYY-MM-DD.md",
+    "html_path": "reports/YYYY-MM-DD.html",
+    "index_path": "README.md",
+    "require_both_reports_and_index_readback": true,
+    "source_pdf_upload": false
+  }
+}
