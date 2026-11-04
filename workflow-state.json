@@ -6,13 +6,31 @@
     "issue_year": 2026,
     "issue_date": "2026-11-04",
     "web_url": "https://ceomorningbrief.theedgemalaysia.com/2026/1245/",
-    "origin": "inherited_completed_old_chat_report",
-    "report_available_for_publication": false
+    "origin": "regenerated_from_source_on_user_request",
+    "report_available_for_publication": true
   },
-  "last_published_issue": null,
+  "last_published_issue": {
+    "issue": "1245/2026",
+    "issue_number": 1245,
+    "issue_year": 2026,
+    "issue_date": "2026-11-04",
+    "web_url": "https://ceomorningbrief.theedgemalaysia.com/2026/1245/",
+    "markdown_path": "reports/2026-11-04.md",
+    "html_path": "reports/2026-11-04.html"
+  },
   "pending_publications": [],
-  "published_issues": [],
-  "baseline_note": "Issue 1245/2026 was fully summarized in the old chat. No report files have been uploaded. Do not regenerate or publish this baseline merely to populate the repository. Process subsequent unseen issues.",
+  "published_issues": [
+    {
+      "issue": "1245/2026",
+      "issue_number": 1245,
+      "issue_year": 2026,
+      "issue_date": "2026-11-04",
+      "web_url": "https://ceomorningbrief.theedgemalaysia.com/2026/1245/",
+      "markdown_path": "reports/2026-11-04.md",
+      "html_path": "reports/2026-11-04.html"
+    }
+  ],
+  "baseline_note": "Issue 1245/2026 was inherited as a completed baseline. A fresh copy was subsequently generated from the source edition and publication to GitHub was explicitly requested by the user. Process subsequent unseen issues automatically; do not regenerate this issue again unless requested.",
   "publication_policy": {
     "branch": "main",
     "markdown_path": "reports/YYYY-MM-DD.md",

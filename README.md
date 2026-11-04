@@ -4,14 +4,15 @@ Bursa Malaysia investment summaries based on newly released editions of [The Edg
 
 ## Setup status
 
-Cloud GitHub read/write access has been tested successfully. Automatic publishing is pending an update to the existing cloud scheduled task; the scheduler could not access that task from the setup chat. No report files have been published yet.
+Cloud GitHub read/write access has been tested successfully. Automatic publishing is pending an update to the existing cloud scheduled task; the scheduler could not access that task from the setup chat. Issue 1245/2026 is available in the report archive below.
 
 ## Read the reports
 
-Completed reports will be listed here after successful publication.
+Completed reports are listed below.
 
 | Issue date | Issue | Read on GitHub | Coloured report |
 |---|---|---|---|
+| 2026-11-04 | 1245/2026 | [Read report](reports/2026-11-04.md) | [Download HTML](reports/2026-11-04.html) |
 
 Markdown reports can be read directly in GitHub on a phone. For the coloured HTML version, download the file and open it in a browser; GitHub's file view displays HTML source rather than rendering the report.
 
