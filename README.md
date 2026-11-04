@@ -2,9 +2,13 @@
 
 Bursa Malaysia investment summaries based on newly released editions of [The Edge CEO Morning Brief](https://ceomorningbrief.theedgemalaysia.com/home/).
 
+## Setup status
+
+Cloud GitHub read/write access has been tested successfully. Automatic publishing is pending an update to the existing cloud scheduled task; the scheduler could not access that task from the setup chat. No report files have been published yet.
+
 ## Read the reports
 
-Reports will be listed here after successful publication. No report has been published to this repository yet.
+Completed reports will be listed here after successful publication.
 
 | Issue date | Issue | Read on GitHub | Coloured report |
 |---|---|---|---|
@@ -15,9 +19,9 @@ Markdown reports can be read directly in GitHub on a phone. For the coloured HTM
 
 - `reports/YYYY-MM-DD.md` — readable summary.
 - `reports/YYYY-MM-DD.html` — styled report.
-- `workflow-state.json` — publication and issue-tracking state.
+- [workflow-state.json](workflow-state.json) — publication and issue-tracking state.
 
-The cloud check is scheduled for 11:00am, Monday–Friday, Asia/Kuala_Lumpur. New reports are published after processing finishes and only when a new issue is available. A successful issue is added to the table above after both report files have been saved.
+The existing cloud check was configured for 11:00am, Monday–Friday, Asia/Kuala_Lumpur. Once the publishing instructions are saved to that task, new reports should be published after processing finishes and only when a new issue is available. Add each issue to the table above only after both report files have been saved and read back.
 
 ## Report layout
 
