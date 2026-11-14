@@ -4,14 +4,19 @@ Bursa Malaysia investment summaries based on newly released editions of [The Edg
 
 ## Setup status
 
-Cloud GitHub read/write access has been tested successfully. Automatic publishing is pending an update to the existing cloud scheduled task; the scheduler could not access that task from the setup chat. Issues from 3–6 November 2026 are available in the archive below.
+Cloud GitHub read/write access has been tested successfully. Automatic publishing is pending an update to the existing cloud scheduled task; the scheduler could not access that task from the setup chat. Seven editions from 3–13 November 2026 are available in the archive below.
 
 ## Read the reports
 
 Completed reports are listed below.
 
+Last archive check: **14 November 2026 (Malaysia date)**. The live publisher archive listed **13 November 2026, Issue 1250/2026**, as the latest available edition. The three previously missing editions (11–13 November) have been published and both formats read back. No editions dated 9 or 10 November appeared between Issues 1247 and 1248.
+
 | Issue date | Issue | Read on GitHub | Coloured report |
 |---|---|---|---|
+| 2026-11-13 | 1250/2026 | [Read report](reports/2026-11-13.md) | [Download HTML](reports/2026-11-13.html) |
+| 2026-11-12 | 1249/2026 | [Read report](reports/2026-11-12.md) | [Download HTML](reports/2026-11-12.html) |
+| 2026-11-11 | 1248/2026 | [Read report](reports/2026-11-11.md) | [Download HTML](reports/2026-11-11.html) |
 | 2026-11-06 | 1247/2026 | [Read report](reports/2026-11-06.md) | [Download HTML](reports/2026-11-06.html) |
 | 2026-11-05 | 1246/2026 | [Read report](reports/2026-11-05.md) | [Download HTML](reports/2026-11-05.html) |
 | 2026-11-04 | 1245/2026 | [Read report](reports/2026-11-04.md) | [Download HTML](reports/2026-11-04.html) |
